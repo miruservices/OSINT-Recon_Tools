@@ -1,7 +1,7 @@
 # OSINT and Recon tool
 
 <p align="center">
-<img src="https://github.com/miruservices/Azure-365-Sec-Links/blob/main/Microsoft_Azure.svg.png" height="300">
+<img src="https://github.com/miruservices/osint_recon/blob/main/Internet_map_1024.jpg" height="300">
 </p> 
 
 This github repository contains a collection of direct links to security configuration blades in Microsoft Azure and 365. 
