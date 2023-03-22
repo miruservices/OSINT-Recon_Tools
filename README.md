@@ -43,4 +43,12 @@ This github repository contains a collection of direct links to OSINT and recon 
         </ul>
     </ul>
 </details>
+<details open>
+    <summary><b>Vulnerability Scanners</b></summary>
+    <ul>
+        <ul>
+            <li><b><a href="https://wpsec.com/">Wordpress security scanner</a></b><i></i></li>
+        </ul>
+    </ul>
+</details>
 
