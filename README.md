@@ -40,6 +40,7 @@ This github repository contains a collection of direct links to OSINT and recon 
            <li><b><a href="https://viz.greynoise.io/">Greynoise</a></b><i></i></li>
            <li><b><a href="https://archive.org/">Internet Archive</a></b><i></i></li>
            <li><b><a href="https://www.reversewhois.io/">Reverse Whois Lookup</a></b><i></i></li>
+           <li><b><a href="https://viewdns.info/">viewdns.info</a></b><i> [Multiple tools]</i></li>
         </ul>
     </ul>
 </details>
